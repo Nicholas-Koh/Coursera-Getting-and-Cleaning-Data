@@ -2,7 +2,7 @@
 This file describes how run_analysis.R script works.
 
 1.First, unzip the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
-  Make sure the folder "unzip" files and the run_analysis.R script are both in the current working directory.
+  The unzip file will create a folder named "UCI HAR Dataset", make sure this folder and the run_analysis.R script are both in the current working directory.
 
 2.Second, use source("run_analysis.R") command in RStudio.
 
